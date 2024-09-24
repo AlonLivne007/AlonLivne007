@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I’m @NadavYakobovich
+* Welcome to my GitHub!
 
-<!--
-**AlonLivne007/AlonLivne007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here are my Projects:
 
-Here are some ideas to get you started:
+#### 🎦: video streaming App – Web App & Android App  
+Responsive chat app
+*	Web App – using react (written in Javascript, HTML and css) ([click here to see](https://github.com/AlonLivne007/Youtube-web-app.git))
+*	Android App – written in java ([click here to see](https://github.com/AlonLivne007/Youtube-android-app.git))
+*	Backend - api server & MondoDB database([click here to see](https://github.com/AlonLivne007/Youtube-web-server.git))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### :joystick:		 Arkanoid Game ([click here to see](https://github.com/AlonLivne007/Arkanoid-Game.git))
+*	Level based OOP block breaker game.
+*	written in Java.
