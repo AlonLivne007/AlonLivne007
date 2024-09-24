@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @NadavYakobovich
+## 👋 Hi, I’m Alon Livne
 * Welcome to my GitHub!
 
 ### Here are my Projects:
