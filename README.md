@@ -17,3 +17,8 @@ Responsive video app
 *	A modular SMT solver using DPLL(T) architecture.
 *	Includes CDCL SAT solvers with VSIDS, Bit-Vector and Congruence Closure theory solvers.
 *	Written in pure Python.
+
+#### 🤖 MDP Grid Controller ([click here to see](https://github.com/AlonLivne007/stochastic-grid-agent))
+*	A policy-based controller for navigating stochastic grid environments.
+*	Handles probabilistic transitions and reward shaping in dynamic environments.
+*	Includes modular logic for slippery actions, doors, punishments, and reproducibility.
