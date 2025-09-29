@@ -12,3 +12,8 @@ Responsive video app
 #### :joystick:		 Arkanoid Game ([click here to see](https://github.com/AlonLivne007/Arkanoid-Game.git))
 *	Level based OOP block breaker game.
 *	written in Java.
+
+#### 🧠 DPLL(T)-Based SMT Solver ([click here to see](https://github.com/AlonLivne007/DPLL-T--Based-SMT-Solver))
+*	A modular SMT solver using DPLL(T) architecture.
+*	Includes CDCL SAT solvers with VSIDS, Bit-Vector and Congruence Closure theory solvers.
+*	Written in pure Python.
