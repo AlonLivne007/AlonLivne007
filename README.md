@@ -3,6 +3,21 @@
 
 ### Here are my Projects:
 
+#### 🧠 Smart Scheduling System – Optimization & Full-Stack Project  
+([click here to see](https://github.com/AlonLivne007/smart-scheduling))
+* Full-stack employee shift scheduling system based on mathematical optimization (MIP).
+* Automatically generates optimal weekly schedules under complex hard and soft constraints.
+* Replaces manual scheduling with a scalable, fair, and explainable solution.
+* Supports role coverage, employee availability, rest-time constraints, fairness, and preferences.
+* Asynchronous optimization using background workers.
+
+Tech stack:
+* Frontend – React
+* Backend – FastAPI, PostgreSQL, SQLAlchemy
+* Optimization – Python-MIP (CBC solver)
+* Async processing – Celery & Redis
+* Infrastructure – Docker & Docker Compose
+
 #### 🎦: video streaming App – Web App & Android App  
 Responsive video app
 *	Web App – using react (written in Javascript, HTML and css) ([click here to see](https://github.com/AlonLivne007/Youtube-web-app.git))
